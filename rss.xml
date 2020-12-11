@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="assets/css/rssstyle.css"?>
+<rss version="2.0">
+<chanel>
+	<title>Textoteka</title>
+	<link>http://www.supsport.com/textoteka</link>
+	<description>Ovo je tekst u kom možete naučiti nešto o treningu i zdravlju</description>
+	<language>sr</language>
+	
+	<item>
+		<title>Povećanje tenzije - ključ razvoja zaostalih mišićnih grupa</title>
+		<link>http://www.supsport.com/textoteka</link>
+		<description>Svako ko je određeno vreme proveo u teretani pre ili kasnije shvati da neki mišići ili delovi tela rastu brže, ili brže postaju definisani ili...</description>
+		<language>sr</language>
+	</item>
+	<item>
+		<title>Sok od pomorandže - ukusna i korisna stavka</title>
+		<link>http://www.supsport.com/textoteka</link>
+		<description>Sok od pomorandže je jedan od najpoznatijih i najomiljenijih napitaka na svetu. Sok od pomorandže se najčešće pominje u letnjim periodima, kada nas osvežava i hidrira...</description>
+		<language>sr</language>
+	</item>
+	<item>
+		<title>#Trening posle porođaja</title>
+		<link>http://www.supsport.com/textoteka</link>
+		<description>Drage dame, mame, koje jedva čekaju da se vrate svojim sportskim danima, ovo je tekst za vas. Svakako se pronalazim u ovoj priči, i potpuno razumem sve vezano za trudnoću, porođaj, i period nakon toga.Dakle, trudnoća je zaista drugo stanje, koje menja ženu kako fizički tako i psihički, a za sve su zaslužne hormonske promene...</description>
+		<language>sr</language>
+	</item>
+	<item>
+		<title>Sok od paradajza</title>
+		<link>http://www.supsport.com/textoteka</link>
+		<description>Svi znamo za sok od paradajza, a većina nas ga voli i veoma često ga konzumira. Sam paradajz je veoma lekovit i predstavlja riznicu vitamina i minerala. Toliko su brojne zdravstvene prednosti paradajza da su ga...</description>
+		<language>sr</language>
+	</item>
+</chanel>
+</rss>

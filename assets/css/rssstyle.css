@@ -1,0 +1,38 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+chanel{
+	display:block;
+	background-color:#000000;
+	color:#95FC0F;
+	font-size:22px;
+}
+item{
+	display:block;
+	margin:15px;
+	border:2px solid #95FC0F;
+}
+title{
+	display:block;
+	background-color:#95FC0F;
+	color:#000000;
+	margin-bottom:20px;
+	padding:7px;
+	font-size:25px;
+	font-weight:bold;
+	text-transform: uppercase;
+	text-align:center;
+}
+link{
+	display:block;
+	margin:20px;
+}
+description{
+	display:block;	
+	margin:20px;
+}
+language{
+	display:block;
+	margin:20px;
+}

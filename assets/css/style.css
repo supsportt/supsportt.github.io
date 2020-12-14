@@ -225,13 +225,24 @@ ficaption a:hover{
 	margin-bottom:50px;
 	margin-top:50px;
 }
-.tabela tbody tr td{
-	padding:8px;
+.tabela tbody tr td:nth-child(2n+1){
+	border:2px outset #c2c2c2;
+		padding:8px;
+}
+.tabela tbody tr td:nth-child(2n+0){
 	border:2px outset #95FC0F;
+		padding:8px;
 }
 .tabela caption{
 	color:#95FC0F;
-	font-size:33px;
+	padding:15px;
+	font-size:45px;
+	text-align:center;
+}
+.tabela thead tr th{
+	padding:10px;
+	font-size:30px;
+	text-align:center;
 }
 footer{
 	width:100%;
